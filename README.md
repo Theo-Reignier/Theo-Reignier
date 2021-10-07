@@ -1,13 +1,12 @@
 ## About 
-[<img width="150" align="right" alt="IBM logo" src="ibm.png" />](https://www.ibm.com/garage)
+[<img width="125" align="right" alt="IBM logo" src="ibm.png" />](https://www.ibm.com/garage)
 
 🧑🏼‍💻 Cloud developer at IBM Garage
 
 💻 MSc Computer Science at UCL 
 
 🔭 First class BSc Physics at UCL 
-
-[<img width="150" align="right" alt="UCL logo" src="ucl.jpeg" />](https://www.ucl.ac.uk/)
+[<img width="125" align="right" alt="UCL logo" src="ucl.jpeg" />](https://www.ucl.ac.uk/)
 
 ## Programming Tech Stack
 
@@ -17,7 +16,7 @@
 
 
 ## Master's Thesis  -  Node-RED Quantum
-[<img width="150" align="right" alt="Node-RED Quantum logo" src="https://avatars.githubusercontent.com/u/89646481?s=200&v=4" />](https://node-red-quantum.github.io/)
+[<img width="125" align="right" alt="Node-RED Quantum logo" src="https://avatars.githubusercontent.com/u/89646481?s=200&v=4" />](https://node-red-quantum.github.io/)
 
 Now that quantum computers are becoming a reality, there is a drive in industry to make quantum programming more widely accessible. IBM has taken up this challenge by making use of the IXN partnership with UCL to develop an educative quantum computing platform.
 
