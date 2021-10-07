@@ -5,7 +5,8 @@
 
 💻 MSc Computer Science at UCL 
 
-🔭 First class BSc Physics at UCL [<img width="150" align="right" alt="UCL logo" src="ucl.jpeg" />](https://www.ucl.ac.uk/)
+🔭 First class BSc Physics at UCL 
+[<img width="150" align="right" alt="UCL logo" src="ucl.jpeg" />](https://www.ucl.ac.uk/)
 
 ## Programming Tech Stack
 
