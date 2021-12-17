@@ -1,7 +1,7 @@
 # About 
 [<img width="140" align="right" alt="IBM logo" src="ibm.png" />](https://www.ibm.com/garage)
 
-🧑🏼‍💻 Cloud developer at IBM Garage
+🧑🏼‍💻 Cloud Developer for IBM Client Engineering also known as [IBM Garage](https://www.ibm.com/uk-en/garage)
 
 💻 MSc Computer Science at UCL 
 
