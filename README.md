@@ -1,11 +1,11 @@
 # About 
-[<img width="140" align="right" alt="IBM logo" src="ibm.png" />](https://www.ibm.com/garage)
+[<img width="140" align="right" alt="IBM logo" src="ibm.png" />](https://www.ibm.com)
 
-🧑🏼‍💻 Cloud Developer for IBM Client Engineering also known as [IBM Garage](https://www.ibm.com/uk-en/garage)
+🧑🏼‍💻  Cloud Developer for IBM Client Engineering, also known as [IBM Garage](https://www.ibm.com/uk-en/garage)
 
-💻 MSc Computer Science at UCL 
+💻  MSc Computer Science with distinction at UCL 
 
-🔭 First class BSc Physics at UCL 
+🔭  First class BSc Physics at UCL 
 [<img width="140" align="right" alt="UCL logo" src="ucl.jpeg" />](https://www.ucl.ac.uk/)
 
 
