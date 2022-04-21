@@ -25,9 +25,4 @@ Node-RED Quantum is an open-source quantum computing module for Node-RED. It tak
 
 Any classical computing technology, such as machine learning, can be used by downloading nodes from the online library. This makes Node-RED very powerful. The module is therefore relevant to experienced quantum programmers that are looking for a quick and simple tool to integrate quantum algorithms into classical programs. Furthermore, Node-RED Quantum provides some predefined quantum algorithms nodes allowing to leverage the power of quantum computing by connecting them to the rest of the program.
 
-This project contributes to making quantum computing more transparent and accessible in order to support the growth of the quantum industry. In fact, Node-RED Quantum is one of the first platforms to integrate both classical and quantum technologies. More importantly, it is the first one to provide a user-friendly interface and straightforward learning experience, effectively removing the expertise barrier required for quantum computing. &nbsp; **[1]**
-
-<br/>
-<br/>
-
-**[1]** T. Reignier, '_Node-RED Quantum - Democratising the power of Quantum Computing_', Master's thesis, UCL department of Computer Science, 2021
+This project contributes to making quantum computing more transparent and accessible in order to support the growth of the quantum industry. In fact, Node-RED Quantum is one of the first platforms to integrate both classical and quantum technologies. More importantly, it is the first one to provide a user-friendly interface and straightforward learning experience, effectively removing the expertise barrier required for quantum computing.
