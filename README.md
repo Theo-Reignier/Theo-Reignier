@@ -1,7 +1,7 @@
 # About
 [<img width="140" align="right" alt="IBM logo" src="ibm.png" />](https://www.ibm.com)
 
-🧑🏼‍💻 &nbsp; Cloud Engineer \& Quantum Ambassador at IBM - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Vf24Vlan-b4&ab_channel=IBMEMEA)
+🧑🏼‍💻 &nbsp; AI Engineer \& Quantum Ambassador at IBM - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Vf24Vlan-b4&ab_channel=IBMEMEA)
 
 💻 &nbsp; MSc Computer Science with distinction from UCL - 77.5%
 
