@@ -5,7 +5,7 @@
 
 💻 &nbsp; MSc Computer Science with distinction from UCL - 77.5%
 
-🔭 &nbsp; First class BSc Physics from UCL - 82.95%
+🔭 &nbsp; First class BSc Physics (Hons) from UCL - 82.95%
 [<img width="140" align="right" alt="UCL logo" src="ucl.jpeg" />](https://www.ucl.ac.uk/)
 
 
